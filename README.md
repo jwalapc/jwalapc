@@ -8,9 +8,9 @@
 ## 📢 I'm a Student, Developer, and Open-Source enthusiast!!
 
 - 🔭 Check out my amazing  [WEATHER INDICATOR WEBSITE](https://jwalapc.github.io/WEATHER-APP-IN-JS/)
-- 🌱 I’m currently learning all the things that I like 🤣
+- 🌱 I'm Currently Developing the Developer inside me.
 - 👯 Looking to connect with more people
-- 🥅 Goals: Contribute more to Open Source projects and Creating some great personal projects.
+- 🥅 Goals: Contribute more to Open Source projects and Creating some great personal projects 👋
 - ⚡ Fun fact: I like to Sing, web-series and cricket <br>
 
 
@@ -33,9 +33,9 @@
 ---
 <p align="center">
    <br>
-   <i>"Experience is the name everyone gives to their mistakes."</i>
+   <i>“Technology is best when it brings people together.”</i>
    <br>
-   <i>– Oscar Wilde.</i>
+   <i>– Matt Mullenweg.</i>
    <br>
 <br>
 <h3 align="left">Connect with me:</h3>
