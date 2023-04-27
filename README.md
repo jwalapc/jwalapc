@@ -7,7 +7,7 @@
 
 ## 📢 I'm a Student, Developer, and Open-Source enthusiast!!
 
-- 🔭 Check out my amazing  [WEATHER INDICATOR WEBSITE](https://jwalapc.github.io/WEATHER-APP-IN-JS/)
+- 🔭 Check out my amazing  [AAJPADHO WEBSITE](https://github.com/jwalapc/aajpadho)
 - 🌱 I'm Currently Developing the Developer inside me.
 - 👯 Looking to connect with more people
 - 🥅 Goals: Contribute more to Open Source projects and Creating some great personal projects 👋
