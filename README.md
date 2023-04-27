@@ -28,7 +28,7 @@
 
 ---
 
-![jwalapc's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jwalapc&theme=rogue&hide_border=true&area=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jwalapc&bg_color=d1fff0&color=9e4c98&line=4c9e70&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 <p align="center">
