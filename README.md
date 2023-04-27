@@ -3,7 +3,7 @@
 <a target="_blank" href="https://jwalapc.github.io/" alt="Hi, there👋 I'm Madhav Jha"><img src="name.gif"></img></a>
 </p>
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jwalapc.jwalapc&color=44CC11)
+![](https://komarev.com/ghpvc/?username=jwalapc)
 
 ## 📢 I'm a Student, Developer, and Open-Source enthusiast!!
 
