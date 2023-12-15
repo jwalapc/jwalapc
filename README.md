@@ -63,6 +63,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jwalapc/jwalapc/output/snake.svg" alt="Snake animation" />
-
 ###
